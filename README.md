@@ -4,7 +4,7 @@
 실제 코드 저장소는 아래에서 확인하세요:
 
 - [Frontend (Flutter)](https://github.com/HoJun-7/25_07_21_Flutter)
-- [Backend (Flask + DB)](https://github.com/HoJun-7/toothai-backend)
+- [Backend (Flask + DB)](https://github.com/HoJun-7/ToothAI_BACKEND)
 - [AI Models (YOLOv8/v11)](https://github.com/HoJun-7/toothai-ai)
 
 <hr/>
@@ -49,5 +49,5 @@ GitHub 뷰어에서 바로 열람 가능합니다 📑
 ## 💻 원본 코드 링크
 
 - 📱 **Frontend (Flutter)**: [HoJun-7/25_07_21_Flutter](https://github.com/HoJun-7/25_07_21_Flutter)  
-- ⚙️ **Backend (Flask + DB)**: [HoJun-7/toothai-backend](https://github.com/HoJun-7/toothai-backend)  
+- ⚙️ **Backend (Flask + DB)**: [HoJun-7/ToothAI_BACKEND](https://github.com/HoJun-7/ToothAI_BACKEND)  
 - 🤖 **AI Models (YOLOv8/v11)**: [HoJun-7/toothai-ai](https://github.com/HoJun-7/toothai-ai)
